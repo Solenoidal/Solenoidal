@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm Solenoidal. I'm a guraduate student at Kyushu Uni.
+
+I like and interested in these technologies. 👇
+
+**language**
+
+javascript, python🐍, elixir💧, rust🦀, Golang
+
+**framework & libraries**
+
+Express.js, Nuxt,js, React.js, Vue,js, Hugo
+
+**platform**
+
+Node.js
+
+**others**
+
+Netlify, Docker, AWS, GCP, Azure
