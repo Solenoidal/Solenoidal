@@ -15,22 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Solenoidal. I'm a guraduate student at Kyushu Uni.
-
+Hi! I'm Solenoidal. I'm a back-end engineer mainly.<br/>
 I like and interested in these technologies. 👇
 
-**language**
-
-javascript, python🐍, elixir💧, rust🦀, Golang
-
-**framework & libraries**
-
-Express.js, Nuxt,js, React.js, Vue,js, Hugo
-
-**platform**
-
+**language**<br/>
+javascript, php:elephant:, python🐍, elixir💧, rust🦀, Golang
+<br/>
+**framework & libraries**<br/>
+Express.js, Nuxt,js, Vue,js
+<br/>
+**platform**<br/>
 Node.js
-
-**others**
-
-Netlify, Docker, AWS, GCP, Azure
+<br/>
+**others**<br/>
+Netlify, Docker
