@@ -27,6 +27,8 @@ Hi! I'm MikanIchinose. I'm a back-end engineer mainly.
 
 ## 🔤 Language
 
+<div class="flex">
+
 ### Main
 
 <div class="flex flex-wrap">
@@ -41,6 +43,8 @@ Hi! I'm MikanIchinose. I'm a back-end engineer mainly.
     <img src="https://img.shields.io/badge/elixir-blue?&style=for-the-badge&logo=elixir&logoColor=white" class="mr-3 mb-3 h-10" />
     <img src="https://img.shields.io/badge/rust-000000?&style=for-the-badge&logo=rust&logoColor=white" class="mr-3 mb-3 h-10" />
     <img src="https://img.shields.io/badge/golang-00bfff?&style=for-the-badge&logo=go&logoColor=white" class="mr-3 mb-3 h-10" />
+</div>
+
 </div>
 
 ## 📚 Framework & Libraries
