@@ -4,12 +4,8 @@
 
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" class="inline">
+# Hi there
 
-<img
-    src="https://img.shields.io/github/license/mikanIchinose/mikanIchinose"
-    class="mr-3"
-/>
 Hi! I'm MikanIchinose. I'm a back-end engineer mainly.
 
 ## 😉 Social
