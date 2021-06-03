@@ -8,6 +8,29 @@
 
 Hi! I'm MikanIchinose. I'm a back-end engineer mainly.
 
+## 📊 My status
+
+<div
+    class="flex w-full"
+>
+<a
+    href="https://github.com/anuraghazra/github-readme-stats"
+    class="mr-2">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=mikanIchinose&show_icons=true&theme=vue"
+        alt="mikanIchinose's GitHub stats"
+        class = "h-full"/>
+</a>
+<a
+    href="https://github.com/anuraghazra/github-readme-stats"
+    class="">
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikanIchinose&layout=compact&langs_count=5&theme=vue"
+        alt="Top Langs"
+        class = "h-full"/>
+</a>
+</div>
+
 ## 😉 Social
 
 <p class="flex">
@@ -68,23 +91,3 @@ Hi! I'm MikanIchinose. I'm a back-end engineer mainly.
     <img src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" class="mr-3 mb-3 h-10" />
 </div>
 
-## 📊 My status
-
-<div
-    class="flex w-full"
->
-<a href="https://github.com/anuraghazra/github-readme-stats" class="mr-2 w-3/5">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=mikanIchinose&show_icons=true&theme=vue"
-        alt="mikanIchinose's GitHub stats"
-        class = "w-full"
-    />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" class="w-1/2">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikanIchinose&layout=compact&langs_count=5&theme=vue"
-        alt="Top Langs"
-        class = "w-full"
-    />
-</a>
-</div>
